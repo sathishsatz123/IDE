@@ -1,2 +1,2 @@
-var grand_Total=eval("10*10+5");
+var grand_Total="Sathish Kumar";
 console.log(grand_Total);
